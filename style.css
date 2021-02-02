@@ -197,6 +197,12 @@ li, p {
   .menu li {
     padding: 8px 8px 92px 8px;
   }
+  .aside ul {
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
   html {
     background: url('./img/Bg_414.jpg') no-repeat center center fixed;
   }
