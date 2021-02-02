@@ -169,6 +169,9 @@ li, p {
   html {
     background: url('./img/Bg_1024.jpg') no-repeat center center fixed;
   }
+  .hidden-text {
+    color: #ffffff;
+  }
 }
 
 
