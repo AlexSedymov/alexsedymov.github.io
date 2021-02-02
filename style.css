@@ -206,6 +206,9 @@ li, p {
   html {
     background: url('./img/Bg_375.jpg') no-repeat center center fixed;
   }
+  .menu li {
+    padding: 8px 8px 142px 8px;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
